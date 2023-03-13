@@ -876,8 +876,8 @@
     "on_behalf_of": {
       "type": [
         "null",
-        "string",
-        "object"
+        "object",
+        "string"
       ],
       "properties": {}
     },

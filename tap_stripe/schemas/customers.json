@@ -468,6 +468,7 @@
     "tax_info_verification": {
       "type": [
         "null",
+        "object",
         "string"
       ]
     },

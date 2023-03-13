@@ -32,8 +32,8 @@
       "items": {
         "type": [
           "null",
-          "string",
-          "object"
+          "object",
+          "string"
         ],
         "properties": {
           "flat_amount": {
