@@ -492,7 +492,7 @@
       "type": [
         "null",
         "string",
-        "object",
+        "object"
       ]
     },
     "currency": {
