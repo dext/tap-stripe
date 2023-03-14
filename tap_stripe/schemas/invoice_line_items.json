@@ -491,8 +491,7 @@
     "invoice_item": {
       "type": [
         "null",
-        "string",
-        "object"
+        "string"
       ]
     },
     "currency": {
