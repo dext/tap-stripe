@@ -65,8 +65,9 @@
     "available_on": {
       "type": [
         "null",
-        "integer"
-      ]
+        "string"
+      ],
+      "format": "date-time"
     },
     "status": {
       "type": [
